@@ -6,6 +6,9 @@
 ## A Simple Burger Builder Application
 A simple berger builder application to api integrated. This is simple ecommerce application. User can build berger and buy it from this applications.
 
+## Live Url-
+https://burger-builder-2-95a00.web.app
+
 ## Installation
 
 ```bash
